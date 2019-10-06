@@ -5,12 +5,20 @@
     <link>https://biroeniko.github.io/</link>
       <atom:link href="https://biroeniko.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Eniko Biro</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://biroeniko.github.io/img/logo.png</url>
       <title>Eniko Biro</title>
       <link>https://biroeniko.github.io/</link>
     </image>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://biroeniko.github.io/blog/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://biroeniko.github.io/blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Eniko Biro</title>
-    <link>https://biroeniko.github.io/authors/</link>
-      <atom:link href="https://biroeniko.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
+    <title>Eniko Biro</title>
+    <link>https://biroeniko.github.io/eniko-biro/</link>
+      <atom:link href="https://biroeniko.github.io/eniko-biro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eniko Biro</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
     <image>
       <url>https://biroeniko.github.io/img/logo.png</url>
-      <title>Authors</title>
-      <link>https://biroeniko.github.io/authors/</link>
+      <title>Eniko Biro</title>
+      <link>https://biroeniko.github.io/eniko-biro/</link>
     </image>
     
   </channel>

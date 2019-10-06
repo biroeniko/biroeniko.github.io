@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://biroeniko.github.io/</loc>
+    <lastmod>2019-10-06T14:34:55+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://biroeniko.github.io/blog/</loc>
+    <lastmod>2019-10-06T14:34:55+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://biroeniko.github.io/authors/admin/</loc>
     <lastmod>2019-10-06T00:59:23+03:00</lastmod>
   </url>
@@ -12,12 +22,7 @@
   </url>
   
   <url>
-    <loc>https://biroeniko.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://biroeniko.github.io/</loc>
-    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
+    <loc>https://biroeniko.github.io/eniko-biro/</loc>
   </url>
   
   <url>
@@ -37,10 +42,6 @@
   <url>
     <loc>https://biroeniko.github.io/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://biroeniko.github.io/tags/</loc>
   </url>
   
 </urlset>
